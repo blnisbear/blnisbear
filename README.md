@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Thanakon Ruchikanchanarat
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My Name Thanakon Ruchikanchanarat
 =================================================================================================================================================
 
 Fullstack Developer
@@ -7,8 +7,8 @@ Fullstack Developer
 Nice to meet you ;)
 
 * 🌍  I'm based in Lopburi, Thailand
-* 🖥️  See my portfolio at [GitHub](http://github.com/bitelion9909)
-* ✉️  You can contact me at [bitelion9909@gmail.com](mailto:bitelion9909@gmail.com)
+* 🖥️  See my port [GitHub](http://github.com/bitelion9909)
+* ✉️  Contact me [bitelion9909@gmail.com](mailto:bitelion9909@gmail.com)
 
 ### Skills
 
